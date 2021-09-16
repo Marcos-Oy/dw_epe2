@@ -126,7 +126,7 @@
                     <h5 class="card-title">En Destinos cotiza tu vuelo a Chile</h5>
                     <p class="card-text">Encuentra vuelos a Chile para tus vacaciones en VUELA LEJOS. Prepara tus maletas y comienza a disfrutar un viaje increíble a este hermoso país.Para visitar todos los destinos que deseas conocer en Chile, escoge las fechas en que quieres viajar, cuantos pasajeros irán contigo y ya está todo listo para comenzar. Descubre las mejores promociones que tenemos para ti y haz realidad el recorrido de tus sueños.Si lo que buscas es encontrar las mejores ofertas sin importar cuando en el año, entonces deja la fecha de tu viaje abierta. Al realizar tu búsqueda te ofreceremos los vuelos a Chile más baratos que tenemos. Además verás promociones a las ciudades más buscadas para inspirarte a descubrir sus hermosos paisajes. ¡Disfruta tu próximo destino favorito!Compra ya mismo tus vuelos a Chile para sentir la emoción de recorrer este país.</p>
                     <p class="card-text"><small class="text-muted">Destinos</small></p>
-                    <a href="html/destinos.html" class="btn btn-primary">Ir al sitio</a>
+                    <a href="destinos.jsp" class="btn btn-primary">Ir al sitio</a>
                 </div>
             </div>
         </div>
@@ -144,7 +144,7 @@
                     <h5 class="card-title">Reserva alojamientos y hoteles en Chile</h5>
                     <p class="card-text">Descubre los hoteles en Chile más baratos para tu viaje con VUELA LEJOS. Tenemos las mejores ofertas y descuentos en alojamientos en Chile para tus vacaciones en un solo lugar. Aquí encontrarás excelentes precios para tu estadía en todos los destinos que quieras visitar de este hermoso país.Ya sea que solo busques un sitio para descansar o esperes encontrar una experiencia única en tus hoteles en Chile, en VUELA LEJOS tenemos muchas opciones para ofrecerte. Asegúrate de tener la estadía que mejor se ajuste a tus necesidades con los alojamientos en Chile perfectos para ti. Escoge los establecimientos que se encuentren más próximos a los lugares que deseas visitar, o localizados en barrios tranquilos. Encuentra el hotel en Chile que estabas buscando y vive unas vacaciones inolvidables. Tanto si buscas una experiencia de lujo en hoteles cinco estrellas, como los precios más bajos, aquí tendrás el abanico de opciones más amplia para tus viajes.Reserva tus hoteles en Chile con nosotros y suma también los vuelos, traslados, paseos, alquiler de autos y todo lo que necesites para disfrutar tus vacaciones. El hotel en Chile perfecto para ti está a solo unos clics de distancia. ¡Haz tus reservas con VUELA LEJOS!</p>
                     <p class="card-text"><small class="text-muted">Hoteles</small></p>
-                    <a href="html/hoteles.html" class="btn btn-primary">Ir al sitio</a>
+                    <a href="hoteles.jsp" class="btn btn-primary">Ir al sitio</a>
                 </div>
             </div>
         </div>
@@ -162,7 +162,7 @@
                     <h5 class="card-title">Contacto</h5>
                     <p class="card-text">VUELA LEJOS Chile tiene una página web a través de la cual puedes contactar a la aerolínea, hacer tus cotizaciones, realizar y consultar tus reservas de vuelo y tus compras de viajes. Como toda aerolínea, atender al cliente es fundamental para no dejar espacio a futuros reclamos o demandas, por lo que en VUELA LEJOS Chile ésto no ha sido la excepción, más todavía considerando que en estos últimos años han ingresado al mercado muchas otras aerolíneas de bajo costo que le hacen competencia, por lo que es su deber mantenerse competitiva en atención al cliente y en sus precios. El Call Center de VUELA LEJOS Chile desde teléfono fijo es: <a href="tel:996040090 ">996040090</a>, y para llamar desde el teléfono Móvil es: <a href="tel:996040091 ">996040091</a>, para contactarnos vía correo electronico <a href="mailto:contacto@aerolinea.cl">contacto@aerolinea.cl</a></p>
                     <p class="card-text"><small class="text-muted">Contáctanos</small></p>
-                    <a href="html/contacto.html" class="btn btn-primary">Ir al sitio</a>
+                    <a href="contacto.jsp" class="btn btn-primary">Ir al sitio</a>
                 </div>
             </div>
         </div>
@@ -180,7 +180,7 @@
                     <h5 class="card-title">Preguntas frecuentes</h5>
                     <p class="card-text">Encuentre respuestas a las preguntas acerca del nuevo coronavirus (2019-nCoV), que incluye información básica sobre la enfermedad, prevención, viajes. El término preguntas frecuentes se refiere a una lista de preguntas y respuestas que surgen frecuentemente dentro de un determinado contexto y para un tema en particular.</p>
                     <p class="card-text"><small class="text-muted">Resuelve tus dudas más comunes</small></p>
-                    <a href="html/preguntas.html" class="btn btn-primary">Ir al sitio</a>
+                    <a href="preguntas.jsp" class="btn btn-primary">Ir al sitio</a>
                 </div>
             </div>
         </div>
@@ -198,11 +198,11 @@
         </a>
 
         <ul class="nav col-md-4 justify-content-end">
-            <li class="nav-item"><a href="index.html" class="nav-link px-2 text-light">Home</a></li>
-            <li class="nav-item"><a href="html/destinos.html" class="nav-link px-2 text-light">Destinos</a></li>
-            <li class="nav-item"><a href="html/hoteles.html" class="nav-link px-2 text-light">Hoteles</a></li>
+            <li class="nav-item"><a href="index.jsp" class="nav-link px-2 text-light">Home</a></li>
+            <li class="nav-item"><a href="destinos.jsp" class="nav-link px-2 text-light">Destinos</a></li>
+            <li class="nav-item"><a href="hoteles.jsp" class="nav-link px-2 text-light">Hoteles</a></li>
             <li class="nav-item"><a href="contacto.jsp" class="nav-link px-2 text-light">Contacto</a></li>
-            <li class="nav-item"><a href="html/preguntas.html" class="nav-link px-2 text-light">Ayuda</a></li>
+            <li class="nav-item"><a href="preguntas.jsp" class="nav-link px-2 text-light">Ayuda</a></li>
         </ul>
     </footer>
 </div>
