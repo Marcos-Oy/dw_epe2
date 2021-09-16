@@ -1,0 +1,40 @@
+body{
+    background: #1b0088;
+    color: #ffffff;
+}
+
+/*TITULO DE CADA PÁGINA*/
+
+#ContenedorTitulo{
+    height: 50px;
+    background-color: #212529;
+    
+}
+
+#titulo{
+    color: #ffffff;
+    padding: .5rem;
+}
+
+/*DE LA PÁGINA HOME MODIFICA IMAGEN, CONTENEDOR Y POSICIÓN DE LETRAS*/
+
+/*IMAGENES*/
+#img2{
+    position:sticky;
+    left: 1000px;
+}
+
+#img4{
+    position:sticky;
+    left: 1000px;
+}
+
+#t2{
+    position:sticky;
+    right: 1000px;
+}
+
+#t4{
+    position:sticky;
+    right: 1000px;
+}
