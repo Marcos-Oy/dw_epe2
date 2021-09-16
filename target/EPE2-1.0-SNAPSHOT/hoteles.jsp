@@ -18,7 +18,7 @@
     <link href="${pageContext.request.contextPath}/css/estilos.css" rel="stylesheet" type="text/css">
     <title>Vuela Lejos</title>
 </head>
-HOOOOOOOLLLLAAAAAAAA
+
 <body>
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
