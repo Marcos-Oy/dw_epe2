@@ -128,7 +128,7 @@
                 <div class="card-body">
                     <h5 class="card-title">Argentina</h5>
                     <p class="card-text">Aprovecha las opciones para tu próximo viaje por Argentina. Vuelos, hoteles y más en Cocha. Buenos Aires viajes en oferta en Cocha.com Encuentra las mejores opciones para viajar. Hoteles. Vuelos. Ofertas de viejes. Cruceros. Paga en hasta 12 Cuotas. Paquetes.</p>
-                    <center><a href="https://vacacionesporargentina.com/15-razones-para-visitar-argentina/" class="btn btn-primary">Más Información</a></center>
+                    <center><a href="https://vacacionesporargentina.com/15-razones-para-visitar-argentina/" target="_blank" class="btn btn-primary">Más Información</a></center>
                 </div>
             </div>
         </div>
@@ -139,7 +139,7 @@
                 <div class="card-body">
                     <h5 class="card-title">Brasil</h5>
                     <p class="card-text">País de contrastes, de junglas de acero y selvas inexploradas, de favelas y rascacielos, de olas salvajes y cascos históricos donde pasear es puro placer, de picanha y caipirinha, de verde, azul y amarillo. Brasil es, sin duda, uno de los destinos más atractivos del mundo.</p>
-                    <center><a href="https://www.spanish.hostelworld.com/blog/7-razones-para-viajar-brasil/" class="btn btn-primary">Más Información</a></center>
+                    <center><a href="https://www.spanish.hostelworld.com/blog/7-razones-para-viajar-brasil/" target="_blank" class="btn btn-primary">Más Información</a></center>
                 </div>
             </div>
         </div>
@@ -154,7 +154,7 @@
                         Varadero y Cayo Santa María brillan por su belleza . ...
                         Cayo Santa María. ...
                         La Habana una puerta al pasado.</p>
-                    <center><a href="https://www.travelium.com.mx/viajes-por-el-mundo/razones-para-viajar-a-cuba/" class="btn btn-primary">Más Información</a></center>
+                    <center><a href="https://www.travelium.com.mx/viajes-por-el-mundo/razones-para-viajar-a-cuba/" target="_blank" class="btn btn-primary">Más Información</a></center>
                 </div>
             </div>
         </div>
@@ -165,7 +165,7 @@
                 <div class="card-body">
                     <h5 class="card-title">E.E.U.U</h5>
                     <p class="card-text">Estados Unidos se ha inspirado en su territorio, su naturaleza y sus ciudades mucho más que cualquier otra literatura nacional. Sin duda no es así solo porque el país haya querido formarse una identidad, sino también porque sus paisajes, de una belleza y grandeza únicas, son toda una fuente de inspiración.</p>
-                    <center><a href="https://miviaje.com/razones-para-visitar-estados-unidos/" class="btn btn-primary">Más Información</a></center>
+                    <center><a href="https://miviaje.com/razones-para-visitar-estados-unidos/" target="_blank" class="btn btn-primary">Más Información</a></center>
                 </div>
             </div>
         </div>
@@ -176,7 +176,7 @@
                 <div class="card-body">
                     <h5 class="card-title">Canadá</h5>
                     <p class="card-text">Canadá tiene ciudades cosmopolitas que son limpias, seguras, amigables y multiculturales. De hecho, Canadá es elogiado en repetidas ocasiones como uno de los países más habitables del mundo. Si sus intereses son el rafting o el teatro en vivo, Canadá no lo decepcionará.</p>
-                    <center><a href="https://www.ef.com.mx/blog/language/razones-para-amar-y-viajar-a-canada/" class="btn btn-primary">Más Información</a></center>
+                    <center><a href="https://www.ef.com.mx/blog/language/razones-para-amar-y-viajar-a-canada/" target="_blank" class="btn btn-primary">Más Información</a></center>
                 </div>
             </div>
         </div>
